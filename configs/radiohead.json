@@ -16,7 +16,6 @@
     [
       "RadioHead/doc",
       "RadioHead/project.cfg",
-      "RadioHead/STM32ArduinoCompat",
       "RadioHead/tools"
     ]
   },
